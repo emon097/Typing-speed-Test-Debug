@@ -188,12 +188,16 @@ button {
 }
 
 .text{
-text-decoration: none;
   align-items: center;
   color: azure;
   background-color: #9dffad;
 }
+.text1{
+  text-align:center;
+  text-decoration: none;
+  color: #eb6565;
 
+}
 @media only screen and (max-width: 700px) {
   #histories{   flex-wrap: wrap;
     padding: 2vh;
